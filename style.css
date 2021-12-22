@@ -1,0 +1,16 @@
+body{
+    color: white;
+    background: cornflowerblue;
+}
+.heading{
+    width: 80%; 
+    font-size: 40px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:red;
+}
+#camera,#result{
+    border:2px dashed purple;
+    width:350px;
+    height:300px;
+}
